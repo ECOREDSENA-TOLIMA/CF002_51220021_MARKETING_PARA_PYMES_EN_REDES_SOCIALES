@@ -21,7 +21,7 @@
     p.mb-3(data-aos="fade-down") Con el fin de gestionar las redes sociales y como consecuencia de la realización de una actividad repetitiva, como lo es estar sentado frente a un computador varias horas al día o, manipular un #[em Smartphone] durante el día o la noche, se identifica que hay cierta exposición al riesgo, por lo que en caso de no realizar adecuadas acciones de seguridad y salud en el trabajo se podrían llegar a generar algunas enfermedades profesionales. 
     p.mb-5(data-aos="fade-down") A continuación, se mencionan algunas de dichas enfermedades que se derivan de las funciones desempeñadas, así mismo, se enuncian algunos síntomas y la forma en la cual se pueden prevenir.
 
-    .tarjeta.color-primario.p-4.mb-5
+    .tarjeta.color-primario.p-4.mb-5(data-aos="zoom-in-down")
       SlyderA(tipo="b")
         .row
           .col-md-6.col-12.mb-4.mb-md-0

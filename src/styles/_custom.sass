@@ -46,8 +46,14 @@
   background-color: $white
 
 .tarjeta.color-primario 
-  p,h4,em
+  p,h4,em,li,i,span,b
     color: #000
+
+.linea-tiempo-c__header__item__year 
+  color: #000 !important
+.linea-tiempo-c__header__btn--left,.linea-tiempo-c__header__btn--right
+  i 
+    color: #000 !important
 
 .tabla-b,.tabla-a
   tr.cabecera-a
@@ -211,3 +217,106 @@ ul.lista-ul--separador.ms-3
   li 
     i.fas.fa-angle-right
       color: $color-acento-contenido
+
+
+//// Tarjetas --------------------------------------
+.crd
+  &.brd--rad
+    border-radius: 20px 
+  &.crd--grayGrad
+    padding: 2rem
+    height: 100%
+    background-color: #F6F6F6
+    border-radius: 15px    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    &:hover      
+      background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+      h4, p
+        color: white 
+      .bottomCircle
+        &::before
+          background-color: #FED981
+  &.crd--blue
+    background-color: #B1DBEA
+
+  &.crd--border
+    border: 4px solid $color-acento-botones
+    border-radius: 20px
+
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 115px
+    height: 115px
+    background-color: #116EB9
+    border-radius: 999px
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5 
+    color: #000000
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: lighten($color-secundario, 9%)
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first, .crd--last
+  &::before 
+    background-color: lighten($color-primario, 60%) !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+    
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+
+///// utilidades --------------------------------------
+.img65
+  width: 65px  
+.img90
+  width: 90px  
+.img250
+  width: 250px  
+.brd--rad
+  border-radius: 20px
+.hr--line
+  margin: 1rem 0
+  width: 100%
+  height: 1px  
+  background-color: #B0C0D2
+.b--rad
+  border-radius: 0px 0px 20px 20px 
+.bg--gradientBlue        
+  background: linear-gradient(0deg, rgba(215,236,252,1) 0%, rgba(239,246,252,1) 100%)
+
+.dialogo.color-primario .dialogo__words__word
+  color: #3c7792 !important

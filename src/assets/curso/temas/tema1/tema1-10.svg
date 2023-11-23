@@ -1,0 +1,19 @@
+<svg id="Grupo_1082020" data-name="Grupo 1082020" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="189.649" height="196.192" viewBox="0 0 189.649 196.192">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_380290" data-name="Rectángulo 380290" width="189.649" height="196.193" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_380289" data-name="Rectángulo 380289" width="189.65" height="196.193" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1082019" data-name="Grupo 1082019" clip-path="url(#clip-path)">
+    <g id="Grupo_1082018" data-name="Grupo 1082018" transform="translate(0 0)">
+      <g id="Grupo_1082017" data-name="Grupo 1082017" clip-path="url(#clip-path-2)">
+        <path id="Trazado_836171" data-name="Trazado 836171" d="M158.2,129.059H119.078L99.548,152.7a7.23,7.23,0,0,1-11.3-.19L70.167,129.059H31.454A31.454,31.454,0,0,1,0,97.6V31.454A31.454,31.454,0,0,1,31.454,0H158.2A31.454,31.454,0,0,1,189.65,31.454V97.6A31.454,31.454,0,0,1,158.2,129.059" transform="translate(0 0)" fill="#fc636b"/>
+        <path id="Trazado_836173" data-name="Trazado 836173" d="M586.118,183.995a24.889,24.889,0,1,1-24.889-24.889,24.889,24.889,0,0,1,24.889,24.889" transform="translate(-466.404 -138.359)" fill="#fff"/>
+        <path id="Trazado_836174" data-name="Trazado 836174" d="M484.762,589.264a32.433,32.433,0,0,0-32.038-27.4h-21.46a32.433,32.433,0,0,0-32.038,27.4Z" transform="translate(-347.169 -488.6)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
