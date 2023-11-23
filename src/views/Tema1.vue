@@ -529,6 +529,211 @@
     p.mb-2(data-aos="fade-down") #[b • Visitas por sección:] indica el total de visitas que tuvo cada pestaña del perfil de la página: inicio, publicaciones, fotos, videos, comunidad.
     p.mb-5(data-aos="fade-down") #[b • Total visitantes:] este indicador muestra el número de personas que, con las sesiones iniciadas, vieron el perfil de la página. Esta sección muestra, además, otros datos importantes:
 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down") 
+      .col-lg-10.col-12
+        .tarjeta.color-acento-botones.p-4
+          .row.justify-content-center.align-items-center
+            .col-12.col-lg-3
+              img(src='@/assets/curso/temas/tema1/tema1-13.svg' alt='')
+            .col-12.col-lg-7
+              p.mb-2(data-aos="fade-down") #[b o Por sección:] personas que iniciaron sesión y vieron las diferentes pestañas del perfil de la página.
+              p.mb-2(data-aos="fade-down") #[b o Por edad y sexo:] personas que iniciaron sesión que vieron el perfil de la página diferenciados por edad y sexo.
+              p.mb-2(data-aos="fade-down") #[b o Por país:] personas que iniciaron sesión que vieron el perfil de la página discriminados por país de origen.
+              p.mb-2(data-aos="fade-down") #[b o Por ciudad:] personas que iniciaron sesión y que vieron el perfil de la página mostrando la ciudad de origen.
+              p.mb-2(data-aos="fade-down") #[b o Por dispositivo:] personas que iniciaron sesión y que vieron el perfil de la página, permitiendo diferenciar el tipo de dispositivo desde el cual accedieron: computador o móvil.
+ 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down") 
+      .col-lg-5.col-12
+        .cajon.color-primario.p-4.mb-2
+          h4 Orígenes principales
+          p.mb-0 Muestra el total de los usuarios conectados por origen de referencia: Facebook, Google.com, Google.com.co, Google.es o Yahoo!
+        .cajon.color-secundario.p-4
+          h4 Publicaciones
+          p.mb-0 Es una métrica que resulta muy relevante para la empresa, tanto si la estrategia consiste en el desarrollo de una campaña o un anuncio individual.
+      .col-lg-5.col-12
+        img(src='@/assets/curso/temas/tema1/tema1-14.png' alt='')
+
+    p.mb-4(data-aos="fade-down") En esta sección se muestran dos tipos de datos en relación con las publicaciones; el primero es la información del momento en que están conectados los fans de la página y el segundo es el rendimiento de los tipos de publicaciones. En este mismo apartado, Facebook permite ver datos y estadísticas relacionadas con cada anuncio y que son de alta relevancia para la toma de decisiones: fecha de publicación, tipo de publicación y otros datos más detallados:
+    p.mb-2(data-aos="fade-down") #[b • Segmentación:] muestra el segmento de mercado al que se dirigió la publicación.
+    p.mb-2(data-aos="fade-down") #[b • Alcance:] muestra a cuántas personas llegó la publicación y separa entre fans y no fans.
+    p.mb-5(data-aos="fade-down") #[b • Interacción:] en este punto muestra el total de clics que recibe cada publicación y las reacciones, comentarios y las veces que se compartió el mismo.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down") 
+      .col-lg-5.col-12
+        img(src='@/assets/curso/temas/tema1/tema1-15.png' alt='')
+      .col-lg-5.col-12
+        .cajon.color-primario.p-4.mb-2
+          h4 Historias
+          p.mb-0 Este apartado muestra de forma detallada las cifras de historias publicadas en la página. La información está desglosada en: veces únicas abiertas, interacciones y número de historias publicadas.
+        .cajon.color-secundario.p-4
+          h4 Personas
+          p.mb-0 Esta sección de las estadísticas de Facebook es también muy importante. Muestra el número de personas que vieron alguna de las publicaciones realizadas en la página con variables como sexo y edad; datos que han sido suministrados por los mismos usuarios.
+
+    p.mb-4(data-aos="fade-down") Esta sección muestra otras variables de alta utilidad para la toma de decisiones:
+    p.mb-2(data-aos="fade-down") #[b • Tus fans:] muestra el total por rango de edad y sexo de las personas que vieron alguna publicación de la página.
+    p.mb-2(data-aos="fade-down") #[b • Tus seguidores:] muestra el total de las personas que siguen la página con rangos de edad y sexo.
+    p.mb-2(data-aos="fade-down") #[b • Personas alcanzadas:] indica el número de personas a las que se les mostró contenido de la página y clasificadas por edad y sexo.
+    p.mb-5(data-aos="fade-down") #[b • Personas que interactúan:] hace referencia al número de personas que hablan de la página, catalogadas por rango de edad y sexo.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down") 
+      .col-lg-10.col-12
+        .tarjeta.color-primario.p-4
+          .row.justify-content-center.align-items-center
+            .col-12.col-lg-3
+              img(src='@/assets/curso/temas/tema1/tema1-16.png' alt='')
+            .col-12.col-lg-7
+              h4 Métricas en Instagram
+              p Instagram es hoy la red social con mayor popularidad en el mundo y se ha convertido en una plataforma esencial para procesos de comercialización. Hoy en día IG, como también se le conoce, tiene más de 1.000 millones de usuarios en el mundo y 25 millones de perfiles comerciales; además, alrededor de 2 millones de anunciantes utilizan las historias y los anuncios de esta red social.
+              p Para acceder a las métricas de IG es necesario crear una cuenta comercial. Desde allí se puede acceder a Instagram #[em Insights], que es una plataforma gratuita que genera información acerca de seguidores, publicaciones e historias.
+
+    p.mb-4(data-aos="fade-down") En IG se tienen en cuenta:
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
+      .col-12.col-lg-10
+        .tarjeta.color-secundario-c.p-4
+          h4 Métricas de las publicaciones
+          p En este punto es posible ver todas las publicaciones ordenadas de la más a menos vista. También es posible filtrarlas con los siguientes criterios:
+          ul.lista-ul.ms-3
+            li
+              span.icon ✔ 
+              | #[b Tipo de contenido:] fotos, videos, secuencias o publicaciones pagadas.
+            li
+              span.icon ✔ 
+              | #[b Métricas:] alcance, clics “cómo llegar”, clics en el sitio web, comentarios, correos electrónicos, impresiones, interacciones, llamadas, Me gusta, mensajes de texto, seguimientos, veces compartido, veces guardado, vista al perfil.
+            li
+              span.icon ✔ 
+              | #[b Tiempo:] desde los últimos 7 días hasta los últimos 2 años.
+          p Con este tipo de filtros es posible hacer un análisis de los mensajes en función con el rendimiento, así se pueden identificar, por ejemplo, aquellos anuncios que son preferidos por los usuarios y desarrollar más contenidos similares que atraigan nuevos usuarios o aumenten el flujo de lectores.
+          p Cada una de las publicaciones tiene su información específica, dando clic sobre ellas se puede acceder a “Ver estadísticas”, donde es posible observar:
+          ul.lista-ul.ms-3
+            li
+              span.icon ✔ 
+              | Cantidad de “Me gusta”.
+            li
+              span.icon ✔ 
+              | Comentarios.
+            li
+              span.icon ✔ 
+              | Veces compartida.
+            li
+              span.icon ✔ 
+              | Veces guardada.
+          .row 
+            .col-10.col-lg-3
+              img(src='@/assets/curso/temas/tema1/tema1-17.png' alt='')
+            .col-12.col-lg-9
+              p También se pueden ver las interacciones y las acciones realizadas por los seguidores:
+              ul.lista-ul.ms-3
+                li
+                  span.icon ✔ 
+                  | Vistas al perfil.
+                li
+                  span.icon ✔ 
+                  | Clics en el sitio.
+              p Finalmente, se pueden detallar cifras relacionadas con el descubrimiento.
+              ul.lista-ul.ms-3
+                li
+                  span.icon ✔ 
+                  | Seguimientos.
+                li
+                  span.icon ✔ 
+                  | Alcance.
+                li
+                  span.icon ✔ 
+                  | Impresiones:
+                  ul.lista-ul.ms-3.mt-2
+                    li.mb-1
+                      span.icon o
+                      | Del inicio.
+                    li.mb-1
+                      span.icon o
+                      | Del perfil.
+                    li.mb-1
+                      span.icon o
+                      | De Hashtags.
+                    li.mb-1
+                      span.icon o
+                      | De otro origen.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
+      .col-12.col-lg-10
+        .cajon.color-primario.p-4
+          h4 Métricas de historias
+          p.mb-0 Para acceder a las estadísticas de las historias, es necesario ir a “Estadísticas” de la cuenta a analizar, luego a “Contenido”, en la parte inferior aparecen las historias, allí se debe hacer clic en “Ver todo” para acceder a la información detallada. Se puede seleccionar ver las historias de los últimos 14 o 7 días, así como las de las últimas 24 horas. Se debe seleccionar la historia a la que se desea ver las estadísticas.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
+      .col-12.col-lg-5 
+        img(src='@/assets/curso/temas/tema1/tema1-18.png' alt='')
+      .col-12.col-lg-7
+        p En este punto se puede ver la siguiente información:
+        p.mb-2(data-aos="fade-down") #[b • Interacciones:] muestra el número de personas que interactuaron con la historia de la publicación.
+        ul.lista-ul.ms-3
+          li.mb-1
+            span.icon o
+            | Respuestas.
+          li.mb-1
+            span.icon o
+            | Visitas al perfil.
+          li.mb-1
+            span.icon o
+            | Descubrimiento.
+          li.mb-1
+            span.icon o
+            | Cuentas alcanzadas.
+          li.mb-1
+            span.icon o
+            | Seguimientos.
+          li.mb-1
+            span.icon o
+            | #[b Navegación:] retrocesos, avances, siguiente historia, abandonos.
+        p Con esta información es posible conocer y analizar las historias con las que más ha interactuado el público y, de esta forma, realizar nuevas historias con los contenidos que más atraen y les gustan a los usuarios.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
+      .col-12.col-lg-10
+        .cajon.color-secundario.p-4
+          h4 Métricas de publicaciones promocionadas
+          p.mb-0 Estas estadísticas están disponibles únicamente para cuentas que han realizado promoción de alguna publicación.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
+      .col-12.col-lg-7
+        p En el botón “Ver todo” aparecerán las publicaciones promocionadas y al hacer clic sobre uno de ellos es posible ver la siguiente información:
+        ul.lista-ul.ms-3
+          li.mb-1
+            span.icon ✔
+            | Vistas de perfil.
+          li.mb-1
+            span.icon ✔
+            | Número de personas que vieron la publicación promocionada.
+          li.mb-1
+            span.icon ✔
+            | Número de impresiones.
+          li.mb-1
+            span.icon ✔
+            | Número de #[em engagement.]
+          li.mb-1
+            span.icon ✔
+            | Segmento demográfico (género, rango de edad, ubicación).
+          li.mb-1
+            span.icon ✔
+            | Valor invertido.
+        p Adicionalmente, es posible realizar una comparación de estos resultados con la misma publicación realizada de forma orgánica.
+      .col-12.col-lg-5 
+        img(src='@/assets/curso/temas/tema1/tema1-19.png' alt='')
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
+      .col-12.col-lg-10
+        .cajon.color-primario.p-4
+          h4 Métrica de los seguidores
+          p.mb-0 Esta información es muy importante para conocer el arquetipo de los usuarios que siguen una cuenta. Es vital para la toma de decisiones del negocio en cuanto a promoción y comercialización. Para tener acceso a esta información es necesario acceder a “Estadísticas” y luego hacer clic en “Público”. Encontrando:
+
+    p.mb-2(data-aos="fade-down") #[b • Sexo:] muestra el porcentaje de hombres y mujeres que hacen parte de los seguidores de la cuenta.
+    p.mb-2(data-aos="fade-down") #[b • Lugares principales ciudades o países:] muestra el origen de las cuentas que siguen el perfil.
+    p.mb-2(data-aos="fade-down") #[b • Rangos de edad:] muestra los rangos de edad que más siguen la cuenta y los discrimina entre hombres y mujeres.
+    p.mb-4(data-aos="fade-down") #[b • Crecimiento:] muestra la actividad de la cuenta en relación con los nuevos seguidores, las publicaciones y los que dejaron de seguir la cuenta.
+
+    p.mb-5(data-aos="fade-down") Es importante, hacer énfasis que la implementación de las diferentes plataformas especializadas, los informes de las métricas se visualizan a través de tableros de resultados, pero sin olvidar, que este tipo de información debe ser tratada por el Administrador de comunidad virtual, el cual tiene las siguientes responsabilidades:
+
+
 
 
 </template>
