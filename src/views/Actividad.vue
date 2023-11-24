@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Fundamentos sobre métricas digitales
-        p.mb-4 #[b Objetivo:] Relacionar los conceptos de indicadores digitales y su aplicación para facilitar la implementación de planes de mejora en las PYMES. 
+        p.mb-4 #[b Objetivo:] relacionar los conceptos de indicadores digitales y su aplicación para facilitar la implementación de planes de mejora en las PYMES. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
