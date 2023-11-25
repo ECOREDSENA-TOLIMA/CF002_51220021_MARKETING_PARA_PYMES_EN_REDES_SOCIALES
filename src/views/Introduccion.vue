@@ -15,7 +15,7 @@
   
     figure(data-aos="zoom-in-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="Métricas y plan de acción en redes sociales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/uyimsb45gu8" title="Métricas y plan de acción en redes sociales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Métricas y plan de acción en redes sociales
 </template>
 

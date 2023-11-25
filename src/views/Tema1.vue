@@ -296,7 +296,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-12.col-lg-10.mb-2.mb-md-0
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Tipos de métricas digitales</i>
+          p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Tipos de métricas digitales</i>
         figure 
           img.d-none.d-md-block(src='@/assets/curso/temas/tema1/fig-2a.svg', alt='En la figura 2 se muestran los tipos de métricas digitales que se pueden encontrar: de percepción, de cliente, de interacción y de conversión.')
           img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-2b.svg', alt='En la figura 2 se muestran los tipos de métricas digitales que se pueden encontrar: de percepción, de cliente, de interacción y de conversión.')
@@ -731,8 +731,32 @@
     p.mb-2(data-aos="fade-down") #[b • Rangos de edad:] muestra los rangos de edad que más siguen la cuenta y los discrimina entre hombres y mujeres.
     p.mb-4(data-aos="fade-down") #[b • Crecimiento:] muestra la actividad de la cuenta en relación con los nuevos seguidores, las publicaciones y los que dejaron de seguir la cuenta.
 
-    p.mb-5(data-aos="fade-down") Es importante, hacer énfasis que la implementación de las diferentes plataformas especializadas, los informes de las métricas se visualizan a través de tableros de resultados, pero sin olvidar, que este tipo de información debe ser tratada por el Administrador de comunidad virtual, el cual tiene las siguientes responsabilidades:
+    p.mb-4(data-aos="fade-down") Es importante, hacer énfasis que la implementación de las diferentes plataformas especializadas, los informes de las métricas se visualizan a través de tableros de resultados, pero sin olvidar, que este tipo de información debe ser tratada por el Administrador de comunidad virtual, el cual tiene las siguientes responsabilidades:
 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
+      .col-12
+        ul.lista-ul.ms-3
+          li.mb-1
+            span.icon ✔
+            | Moderación de los contenidos.
+          li.mb-1
+            span.icon ✔
+            | Incentivar a la participación.
+          li.mb-1
+            span.icon ✔
+            | Gestión y resolución de conflictos.
+          li.mb-1
+            span.icon ✔
+            | Apoyo constante a usuarios.
+          li.mb-1
+            span.icon ✔
+            | Desarrollo de contenido.
+          li.mb-1
+            span.icon ✔
+            | Análisis de datos.
+          li.mb-1
+            span.icon ✔
+            | Estrategias de mejora.
 
 
 
