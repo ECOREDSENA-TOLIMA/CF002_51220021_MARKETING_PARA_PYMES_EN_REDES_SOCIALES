@@ -208,31 +208,31 @@
     p.mb-5(data-aos="fade-down") Como se expuso anteriormente, la propiedad intelectual es un tema que debe ser conocido por las personas que interactúan constantemente con información; específicamente en redes sociales, es un tema que los administradores de comunidades virtuales, deben tener presentes para no cometer errores y terminar en enredos jurídicos, ya que usualmente las obras están protegidas por derechos de autor o derechos conexos y en el caso de las marcas por propiedad industrial . 
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-down-right")
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema2/carrucel-1a.svg' alt='')
         h4 Primera acción
         p Utilizar piezas gráficas propias, es decir, realizadas #[em in house] (dentro de la empresa) o acudir a bancos de imágenes en sitios que incluyan licencias de uso gratuito, es decir, que permitan el uso del material.
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema2/carrucel-1b.svg' alt='')
         h4 Segunda acción
-        p Referenciar claramente si el contenido es propio o si es tomado de algún autor o sitio web. Se debe tener presente que cuando no hay notas aclaratorias se asumirá que la información es 100 % autoría propia.
-      .tarjeta.color-primario.p-4
+        p Referenciar claramente si el contenido es propio o si es tomado de algún autor o sitio #[em web]. Se debe tener presente que cuando no hay notas aclaratorias se asumirá que la información es 100 % autoría propia.
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema2/carrucel-1c.svg' alt='')
         h4 Tercera acción
         p Solicitar autorización para el uso al titular de los derechos, cuando se utilice obras, grabaciones o elementos similares para una campaña de mercadeo digital o cualquier publicación independiente.  
-      .tarjeta.color-primario.p-4 
+      .tarjeta.color-primario.p-4.col-ipad 
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema2/carrucel-1d.svg' alt='')
         h4 Cuarta acción
         p Realizar permanentemente gestión electrónica de derechos, entendido como la protección que dan los titulares en medios virtuales al uso de sus recursos, por ejemplo, el número de descargas, el tipo de dispositivos, entre otros. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema2/carrucel-1e.svg' alt='')

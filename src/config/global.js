@@ -174,9 +174,9 @@ export default {
         'Es la unidad de medida que calcula el número de personas que han visto una publicación a través de otros contactos.',
     },
     {
-      termino: 'Analítica web',
+      termino: 'Analítica <em>web</em>',
       significado:
-        'Es la forma de medir y analizar los datos de tráfico de un sitio web, a través del cual se permiten tomar las mejores decisiones y optimizar los objetivos de la empresa.',
+        'Es la forma de medir y analizar los datos de tráfico de un sitio <em>web</em>, a través del cual se permiten tomar las mejores decisiones y optimizar los objetivos de la empresa.',
     },
     {
       termino: 'Contenidos digitales',
@@ -186,7 +186,7 @@ export default {
     {
       termino: '<em>Cookies</em>',
       significado:
-        'Son pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio web y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
+        'Son pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio <em>web</em> y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
     },
     {
       termino: '<em>Marketing</em> de contenidos',
@@ -310,7 +310,7 @@ export default {
       autores: [
         {
           nombre: 'Aruzidna Sánchez Alonso',
-          cargo: 'Diseñadora web',
+          cargo: 'Diseñadora Web',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
@@ -340,12 +340,12 @@ export default {
       autores: [
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validación y Vinculación en Plataforma LMS',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Naranjo Farfán',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Validación de Contenidos Accesibles',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],

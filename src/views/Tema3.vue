@@ -12,7 +12,7 @@
         img(src='@/assets/curso/temas/tema3/tema3-1.png', alt='')
       .col-lg-6.col-12
         p En la actualidad todas las empresas deben establecer políticas que vayan enfocadas a la SST de los trabajadores, no solo por ser un requerimiento legal en Colombia, sino porque el velar y dar prioridad al bienestar de todos los empleados dentro una compañía, garantiza estándares altos de productividad y efectividad en todas las actividades que el trabajador realice.
-        p En Colombia, el marco de actuación básico para los temas de Seguridad y Salud en el Trabajo- SST, los da la resolución 0312 de 2019 en la cual se definen los estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST aplicable tanto a los empleadores públicos como privados, estableciendo según el número de trabajadores de la empresa las acciones mínimas que deben diseñar e implementar, para dar cumplimiento a la Ley, dando origen así a el Manual de Sistema de Seguridad y Salud en el trabajo de cada empresa.
+        p En Colombia, el marco de actuación básico para los temas de Seguridad y Salud en el Trabajo- SST, los da la resolución 0312 de 2019, en la cual se definen los estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST aplicable tanto a los empleadores públicos como privados, estableciendo según el número de trabajadores de la empresa las acciones mínimas que deben diseñar e implementar, para dar cumplimiento a la Ley, dando origen así a el Manual de Sistema de Seguridad y Salud en el trabajo de cada empresa.
 
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -25,7 +25,7 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.col-12.mb-4.mb-md-0
-            h4 Teno sinovitis de estiloides radial 
+            h4 Tenosinovitis de estiloides radial 
             p Afecta principalmente las manos, produciendo una inflamación en los dedos pulgares. 
             p Puede prevenirse al realizar ejercicios de estiramiento tanto en las manos como en los dedos, con intervalos de 15 repeticiones por cada dedo. 
           .col-md-6.col-11

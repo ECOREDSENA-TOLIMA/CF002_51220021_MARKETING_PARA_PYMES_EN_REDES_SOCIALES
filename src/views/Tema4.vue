@@ -15,7 +15,7 @@
         .row
           .col-md-7.col-12.mb-4.mb-md-0
             h4 Visualizar el objetivo
-            p En el plan de mercadeo, comunicación o en el social media, se establecieron unos objetivos medibles y alcanzables, por tanto, en el plan de acción se debe retomar el objetivo en el cual se van a enfocar las acciones.
+            p En el plan de mercadeo, comunicación o en el #[em social media], se establecieron unos objetivos medibles y alcanzables, por tanto, en el plan de acción se debe retomar el objetivo en el cual se van a enfocar las acciones.
           .col-md-5.col-11
             figure
               img(src='@/assets/curso/temas/tema4/tema4-1.png', alt='')

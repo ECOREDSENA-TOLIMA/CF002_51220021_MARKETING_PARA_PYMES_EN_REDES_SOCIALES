@@ -11,7 +11,7 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-12
-        p La gestión eficaz de las redes sociales se ha convertido en un pilar fundamental del marketing en la era digital. Para aprovechar al máximo su potencial, es esencial comprender cómo medir y evaluar el impacto de nuestras estrategias en línea. El componente formativo Métricas y plan de acción en redes sociales ofrece una guía esencial para adentrarse en este emocionante mundo. A través de este programa, aprenderemos a emplear herramientas especializadas que nos permiten analizar métricas y evaluar el desempeño de nuestras publicaciones en las redes sociales. Estas habilidades son cruciales para ajustar estrategias, mejorar la interacción con los seguidores y lograr un impacto más significativo en un entorno digital en constante evolución.
+        p La gestión eficaz de las redes sociales se ha convertido en un pilar fundamental del #[em marketing] en la era digital. Para aprovechar al máximo su potencial, es esencial comprender cómo medir y evaluar el impacto de nuestras estrategias en línea. El componente formativo Métricas y plan de acción en redes sociales ofrece una guía esencial para adentrarse en este emocionante mundo. A través de este programa, aprenderemos a emplear herramientas especializadas que nos permiten analizar métricas y evaluar el desempeño de nuestras publicaciones en las redes sociales. Estas habilidades son cruciales para ajustar estrategias, mejorar la interacción con los seguidores y lograr un impacto más significativo en un entorno digital en constante evolución.
   
     figure(data-aos="zoom-in-down")
       .video

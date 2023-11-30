@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 A continuación, se describe el tema principal del componente formativo métricas y plan de acción en redes sociales, que se centra en la medición y evaluación de estrategias de marketing en plataformas digitales. Su objetivo es proporcionar las herramientas necesarias para analizar métricas relevantes en las redes más usadas y de mayor difusión, lo que permite a las empresas comprender el impacto de sus publicaciones y campañas en línea. Estos datos son fundamentales para tomar decisiones informadas y ajustar estrategias. Además, se enfatiza en la importancia de mantener un enfoque ético y legal en el entorno digital, particularmente en lo que respecta a derechos de autor y propiedad industrial. 
+    p.mb-5 A continuación, se describe el tema principal del componente formativo métricas y plan de acción en redes sociales, que se centra en la medición y evaluación de estrategias de #[em marketing] en plataformas digitales. Su objetivo es proporcionar las herramientas necesarias para analizar métricas relevantes en las redes más usadas y de mayor difusión, lo que permite a las empresas comprender el impacto de sus publicaciones y campañas en línea. Estos datos son fundamentales para tomar decisiones informadas y ajustar estrategias. Además, se enfatiza en la importancia de mantener un enfoque ético y legal en el entorno digital, particularmente en lo que respecta a derechos de autor y propiedad industrial. 
 
     .row.justify-content-center
       .col-lg-10.mb-5

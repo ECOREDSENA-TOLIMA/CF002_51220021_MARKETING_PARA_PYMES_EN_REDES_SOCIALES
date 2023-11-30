@@ -15,7 +15,7 @@
         p.mb-0 Los medios de comunicación convencionales y digitales deben garantizar que los productos tengan efectos positivos con su implementación, por ello, se hace necesario que la información publicada sea analizada y medida, por medio de indicadores que faciliten la efectividad de los medios utilizados. 
           br
           br
-          | A partir del #[em marketing] digital se realizan una serie de mediciones derivadas de indicadores especiales y de los datos suministrados por las diferentes plataformas web para esta tarea. Dichos datos son un insumo muy importante para el futuro desarrollo de estrategias y para realizar correcciones casi en tiempo real de las acciones que se están ejecutando, con la opción de redireccionarlas para el logro de los objetivos planteados, minimizando los riesgos al final de la campaña y optimizando la inversión que se haya realizado. 
+          | A partir del #[em marketing] digital se realizan una serie de mediciones derivadas de indicadores especiales y de los datos suministrados por las diferentes plataformas #[em web] para esta tarea. Dichos datos son un insumo muy importante para el futuro desarrollo de estrategias y para realizar correcciones casi en tiempo real de las acciones que se están ejecutando, con la opción de redireccionarlas para el logro de los objetivos planteados, minimizando los riesgos al final de la campaña y optimizando la inversión que se haya realizado. 
 
     p.mb-3(data-aos="fade-down") Lo anterior se hace importante en las PYMES, el realizar acciones muy acertadas que garanticen que las publicaciones sean efectivas, porque en muchos casos para las pequeñas y medianas empresas los presupuestos para esta labor son muy limitados. 
     p.mb-5(data-aos="fade-down") “Lo que no se mide no se puede controlar ni mejorar” y esta ideología ha sido plenamente adaptada en el contexto empresarial, es por ello la importancia de los indicadores, que, en el contexto digital, se denominan métricas, las cuales se definen como una medida cuantitativa que permite la medición y comparación.
@@ -23,21 +23,21 @@
     .row.align-items-center.mb-4(data-aos="fade-down-right")
       .d-flex.titulo-h3
         img(src='@/assets/curso/temas/icono.svg', style="width: 25px", alt='')
-        h3.mb-0.ms-3 ¿Qué es la analítica web?
+        h3.mb-0.ms-3 ¿Qué es la analítica #[em web]?
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right")
       .col-10.col-md-5.col-lg-4
         img(src='@/assets/curso/temas/tema1/tema1-2.png' alt='')
       .col-10.col-md-7.col-lg-6
-        p  La analítica web es la medición, análisis y presentación de datos de monitorización a las actividades que una empresa realiza en medios #[em online], con el fin de realizar acciones de mejoramiento de las estrategias y con ello, generar mayor efectividad de los planes de #[em marketing] y comunicación digital llevados a cabo por la empresa para dar cumplimiento a los objetivos.
-        p La analítica web es una disciplina derivada de otras que han sido y siguen siendo importantes en el desarrollo de nuevas técnicas de mercadeo para el análisis del comportamiento de los clientes reales y potenciales. Desde el inicio de las actividades comerciales y la posibilidad de ingreso de cualquier competidor al mercado, las empresas han destinado grandes esfuerzos económicos y humanos para conocer en detalle el comportamiento de los compradores para el desarrollo de estrategias más efectivas que permitan un incremento significativo en las ventas. Los Sistemas de Información de Mercados (SIM), han ocupado un lugar de privilegio en el análisis de compra en puntos de venta de todo tipo. Posteriormente, los CRM, por su parte, fueron un primer intento por generar estrategias que utilizan la información de los clientes a través de herramientas sistematizadas para generar comunicación hacia clientes potenciales y reales. 
+        p  La analítica #[em web] es la medición, análisis y presentación de datos de monitorización a las actividades que una empresa realiza en medios #[em online], con el fin de realizar acciones de mejoramiento de las estrategias y con ello, generar mayor efectividad de los planes de #[em marketing] y comunicación digital llevados a cabo por la empresa para dar cumplimiento a los objetivos.
+        p La analítica #[em web] es una disciplina derivada de otras que han sido y siguen siendo importantes en el desarrollo de nuevas técnicas de mercadeo para el análisis del comportamiento de los clientes reales y potenciales. Desde el inicio de las actividades comerciales y la posibilidad de ingreso de cualquier competidor al mercado, las empresas han destinado grandes esfuerzos económicos y humanos para conocer en detalle el comportamiento de los compradores para el desarrollo de estrategias más efectivas que permitan un incremento significativo en las ventas. Los Sistemas de Información de Mercados (SIM), han ocupado un lugar de privilegio en el análisis de compra en puntos de venta de todo tipo. Posteriormente, los CRM, por su parte, fueron un primer intento por generar estrategias que utilizan la información de los clientes a través de herramientas sistematizadas para generar comunicación hacia clientes potenciales y reales. 
 
     p.mb-5(data-aos="fade-down") La analítica parece acercarse de forma importante a ese objetivo de conocer el comportamiento del mercado en relación con un producto o servicio y, en particular, con los medios digitales de una marca o empresa permitiendo llegar con comunicación y estrategias de promoción y ventas más contundentes.
 
     .row.align-items-center.mb-4(data-aos="fade-down-right")
       .d-flex.titulo-h3
         img(src='@/assets/curso/temas/icono.svg', style="width: 25px", alt='')
-        h3.mb-0.ms-3 Tendencias de la analítica web
+        h3.mb-0.ms-3 Tendencias de la analítica #[em web]
 
     p.mb-5(data-aos="fade-down") Derivado de los análisis que puede realizar una empresa en pro del mejoramiento de sus estrategias de mercadeo y comunicación, surgen tres corrientes principales en las que se puede centrar el proceso:
 
@@ -61,7 +61,7 @@
                 img(src="@/assets/curso/temas/tema1/tema1-5.svg", alt="alt").img100
             .col
               h5 #[em Mobile analytics]
-              p La innovación de los teléfonos inteligentes trajo consigo un nuevo sistema de navegación, gestión, trabajo, entrenamiento y organización. Las aplicaciones (App), al igual que los sitios web y las plataformas #[em online], generan una gran cantidad de información y datos que, al ser organizados y analizados, permiten la toma de decisiones de forma oportuna y adecuada.
+              p La innovación de los teléfonos inteligentes trajo consigo un nuevo sistema de navegación, gestión, trabajo, entrenamiento y organización. Las aplicaciones (App), al igual que los sitios #[em web] y las plataformas #[em online], generan una gran cantidad de información y datos que, al ser organizados y analizados, permiten la toma de decisiones de forma oportuna y adecuada.
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
             .col-auto
@@ -69,7 +69,7 @@
                 img(src="@/assets/curso/temas/tema1/tema1-6.svg", alt="alt").img100
             .col
               h5 #[em Big data]
-              p Nunca en el mundo se había tenido tanta información circulando y a disposición de casi cualquier persona que tenga acceso a internet. Los datos que generan las redes sociales, los sistemas de información, los sitios web y las entidades gubernamentales y privadas permiten conocer a un nivel superior cómo desarrollar el proceso comercial y de #[em marketing] en cualquier empresa.
+              p Nunca en el mundo se había tenido tanta información circulando y a disposición de casi cualquier persona que tenga acceso a internet. Los datos que generan las redes sociales, los sistemas de información, los sitios #[em web] y las entidades gubernamentales y privadas permiten conocer a un nivel superior cómo desarrollar el proceso comercial y de #[em marketing] en cualquier empresa.
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -82,14 +82,14 @@
         img(src='@/assets/curso/temas/icono.svg', style="width: 25px", alt='')
         h3.mb-0.ms-3 Google #[em Analytics]
 
-    p.mb-5(data-aos="fade-down") Es una herramienta gratuita que permite la optimización de los sitios web para mejorar el ROI de los negocios #[em online]. Mediante esta herramienta es posible mejorar la experiencia del usuario, incrementar conversiones, medir el rendimiento de palabras claves y de campañas, y acceder a métricas relacionadas con el negocio.  Además, permite a un empresario saber la forma cómo los usuarios llegan a la web de la empresa, dónde viven los visitantes, cómo hacer campañas más efectivas, cómo es la interacción de los usuarios con la web y validar si el contenido ofrecido es eficiente o deben hacerse mejoras en ese sentido.
+    p.mb-5(data-aos="fade-down") Es una herramienta gratuita que permite la optimización de los sitios #[em web] para mejorar el ROI de los negocios #[em online]. Mediante esta herramienta es posible mejorar la experiencia del usuario, incrementar conversiones, medir el rendimiento de palabras claves y de campañas, y acceder a métricas relacionadas con el negocio.  Además, permite a un empresario saber la forma cómo los usuarios llegan a la #[em web] de la empresa, dónde viven los visitantes, cómo hacer campañas más efectivas, cómo es la interacción de los usuarios con la #[em web] y validar si el contenido ofrecido es eficiente o deben hacerse mejoras en ese sentido.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img( 
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-7.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Para el funcionamiento de Google Analytics es necesario crear una cuenta que permite acceder al menú para realizar todos los análisis y métricas que permite la plataforma. En cada cuenta creada se enlaza, al menos, una página web de la empresa, puede ser administrada por varios usuarios y para la que se pueden generar diversas visitas. Si una empresa tiene varios sitios web se puede hacer seguimientos a estos desde una misma cuenta, específicamente Google Analytics permite: 
+        p.mb-0 Para el funcionamiento de Google Analytics es necesario crear una cuenta que permite acceder al menú para realizar todos los análisis y métricas que permite la plataforma. En cada cuenta creada se enlaza, al menos, una página #[em web] de la empresa, puede ser administrada por varios usuarios y para la que se pueden generar diversas visitas. Si una empresa tiene varios sitios #[em web] se puede hacer seguimientos a estos desde una misma cuenta, específicamente Google Analytics permite: 
 
     .row.align-items-center.mb-4(data-aos="fade-down-right")
       .d-flex.titulo-h3
@@ -103,19 +103,19 @@
         PasosA.color-primario.mb-5(tipo="l" data-aos="fade-right")
           div
             h4 Sesión
-            p La sesión inicia cuando un usuario “aterriza” en el sitio web y se finaliza cuando pasan más de 30 minutos sin que ese usuario interactúe con este. También finaliza la sesión si pasa de las 12 de la noche, en ese caso se iniciará otra sesión. Google #[em Analytics] realiza una medición de cantidad de sesiones que se realizan en el sitio web.
+            p La sesión inicia cuando un usuario “aterriza” en el sitio #[em web] y se finaliza cuando pasan más de 30 minutos sin que ese usuario interactúe con este. También finaliza la sesión si pasa de las 12 de la noche, en ese caso se iniciará otra sesión. Google #[em Analytics] realiza una medición de cantidad de sesiones que se realizan en el sitio #[em web].
           div
             h4 Usuarios
-            p Es todo aquel que ha visitado la página indiferente del número de sesiones que haya iniciado. Son las #[em cookies], las que permiten identificar los usuarios que hayan iniciado sesión en el sitio web.
+            p Es todo aquel que ha visitado la página indiferente del número de sesiones que haya iniciado. Son las #[em cookies], las que permiten identificar los usuarios que hayan iniciado sesión en el sitio #[em web].
           div
             h4 Duración media de la sesión
             p Google calcula esta métrica con base en el total de duración de las diferentes sesiones dividiendo entre el número de sesiones.
           div
             h4 Porcentaje de rebote
-            p Es el porcentaje de sesiones en las que los usuarios ingresan a una página del sitio web y sin realizar ninguna interacción se retiran de ella.
+            p Es el porcentaje de sesiones en las que los usuarios ingresan a una página del sitio #[em web] y sin realizar ninguna interacción se retiran de ella.
           div
             h4 Porcentaje de nuevas sesiones
-            p Esta métrica consiste en determinar el número de nuevos usuarios, analizando las #[em cookies] para definir si es un usuario que llega por primera vez al sitio web.
+            p Esta métrica consiste en determinar el número de nuevos usuarios, analizando las #[em cookies] para definir si es un usuario que llega por primera vez al sitio #[em web].
 
     .row.align-items-center.mb-4(data-aos="fade-down-right")
       .d-flex.titulo-h3
@@ -131,7 +131,7 @@
               | #[b Tipo de usuario:] esta métrica discrimina entre usuarios nuevos y recurrentes y está ligada a las sesiones, pero no a los usuarios. Por lo tanto, debe considerarse como una sesión en la que el usuario se comporta como nuevo o recurrente.
             li
               span.icon ✔ 
-              | #[b Edad y género:] esta información requiere una codificación especial en Google Analytics para que genere los datos a partir de páginas de terceros, así como otros datos demográficos. Una vez configurado, se muestran las cantidades de personas de cada género que han visitado el sitio web.
+              | #[b Edad y género:] esta información requiere una codificación especial en Google Analytics para que genere los datos a partir de páginas de terceros, así como otros datos demográficos. Una vez configurado, se muestran las cantidades de personas de cada género que han visitado el sitio #[em web].
             li
               span.icon ✔ 
               | #[b Idioma:] determina el idioma que tiene configurado cada visitante de la página en su dispositivo o navegador.
@@ -143,7 +143,7 @@
               | #[b Otras dimensiones:] están ligadas a visitantes que se conectan desde un dispositivo móvil: navegador que utilizan, sistema operativo, resolución de la pantalla, colores de pantalla, versión de #[em Flash], compatibilidad Java y proveedor de servicio.
             li
               span.icon ✔ 
-              | #[b Tipo de dispositivo:] determina el tipo de dispositivo desde el cual el usuario visita el sitio web: computador, #[em móvil] o #[em tablet].
+              | #[b Tipo de dispositivo:] determina el tipo de dispositivo desde el cual el usuario visita el sitio #[em web]: computador, móvil o #[em tablet].
             li
               span.icon ✔ 
               | #[b Dispositivo:] está ligada a las visitas desde móviles. Presenta una información variada en relación con los dispositivos desde los cuales se accede: marca, modelo y tipo de escritura (táctil, #[em joystick] o lápiz).
@@ -175,10 +175,10 @@
             | #[b Datos demográficos:] permite conocer la edad y sexo de los visitantes. Sin embargo, no se puede obtener el 100 % de la información, puesto que no todos los usuarios suministran esta información.
           li
             span.icon ✔ 
-            | #[b Intereses:] esta información se obtiene de la misma forma que la edad y el sexo. Esta métrica permite conocer los gustos e intereses que tienen los visitantes al sitio web.
+            | #[b Intereses:] esta información se obtiene de la misma forma que la edad y el sexo. Esta métrica permite conocer los gustos e intereses que tienen los visitantes al sitio #[em web].
           li
             span.icon ✔ 
-            | #[b Comparativas:] este ítem permite comparar los resultados de la web analizada con otras similares, lo que permite mejorar las estrategias y trazar metas de alcance de la empresa.
+            | #[b Comparativas:] este ítem permite comparar los resultados de la #[em web] analizada con otras similares, lo que permite mejorar las estrategias y trazar metas de alcance de la empresa.
           li
             span.icon ✔ 
             | #[b ID de usuario:] es una dificultad en el análisis, pues en realidad se registra un navegador y no un usuario, así si alguien abre el sitio en tres navegadores diferentes está generando tres sesiones y no una.
@@ -188,7 +188,7 @@
         img(src='@/assets/curso/temas/icono.svg', style="width: 25px", alt='')
         h3.mb-0.ms-3 Métricas de adquisición
 
-    p.mb-5(data-aos="fade-down") Estas métricas están relacionadas con la audiencia del sitio web y la conversión. Encontrando:
+    p.mb-5(data-aos="fade-down") Estas métricas están relacionadas con la audiencia del sitio #[em web] y la conversión. Encontrando:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .col-12.col-lg-10
@@ -221,7 +221,7 @@
         img(src='@/assets/curso/temas/icono.svg', style="width: 25px", alt='')
         h3.mb-0.ms-3 Informes básicos
 
-    p.mb-5(data-aos="fade-down") #[em Google Analytics] genera informes de audiencia con datos generales relevantes a:
+    p.mb-5(data-aos="fade-down") Google Analytics genera informes de audiencia con datos generales relevantes a:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .col-12.col-lg-10
@@ -241,7 +241,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 4
-            | #[b Social:] con esta métrica se analiza el comportamiento de los botones sociales que se hayan instalado en la web.
+            | #[b Social:] con esta métrica se analiza el comportamiento de los botones sociales que se hayan instalado en la #[em web].
           li 
             .lista-ol--cuadro__vineta
               span 5
@@ -250,7 +250,7 @@
     .row.align-items-center.mb-4(data-aos="fade-down-right")
       .d-flex.titulo-h3
         img(src='@/assets/curso/temas/icono.svg', style="width: 25px", alt='')
-        h3.mb-0.ms-3 #[em Hootsuite Analyze]
+        h3.mb-0.ms-3 Hootsuite #[em Analyze]
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img( 
@@ -277,7 +277,7 @@
         ul.lista-ul.ms-3
           li
             span.icon ✔ 
-            | No solo permite analizar el desempeño de la empresa en cada red social, también accede a la proyección de informes personalizados, para así revisar los impactos de marca y efectividad de las acciones de audiencia como tácticas y actividades de social media.
+            | No solo permite analizar el desempeño de la empresa en cada red social, también accede a la proyección de informes personalizados, para así revisar los impactos de marca y efectividad de las acciones de audiencia como tácticas y actividades de #[em social media].
           li
             span.icon ✔ 
             | Cuenta con un componente de analítica predictiva que posibilita obtener información sobre cuál es la franja o el momento adecuado para realizar publicaciones.
@@ -355,31 +355,31 @@
     p.mb-5(data-aos="fade-down") #[b • Métricas de conversión:] estos indicadores permiten mostrar la efectividad real que se logra a partir de las tácticas y actividades implementadas en redes sociales.
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-down-right")
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema1/carrucel-2a.svg' alt='')
         h4 Tasa de conversión 
-        p Es el porcentaje de usuarios que realizan la acción objetivo en comparación con el número total de visitantes.
-      .tarjeta.color-primario.p-4
+        p Es el porcentaje de usuarios que realizan la acción objetiva en comparación con el número total de visitantes.
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema1/carrucel-2b.svg' alt='')
         h4 Tasa de clics
         p Conocida también como CTR (#[em Click-Through Rate]), es el porcentaje de usuarios que hicieron clics sobre el total de impresiones.
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema1/carrucel-2c.svg' alt='')
         h4 Tasa de rebote
         p Es el porcentaje del total de visitantes a una red social y sale sin interactuar con el contenido. La meta es que la tasa de rebote sea lo más baja.
-      .tarjeta.color-primario.p-4 
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema1/carrucel-2d.svg' alt='')
         h4 Costo Por Clic (CPC)
         p Es el dinero que se paga a la plataforma o al proveedor por cada clic que realizan los usuarios en las publicaciones que son patrocinadas en redes sociales.
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema1/carrucel-2e.svg' alt='')
@@ -405,7 +405,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-9.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Siendo la red social con el mayor número de usuarios a nivel mundial, Facebook es una plataforma por excelencia para el desarrollo de estrategias de marketing viral. Los diferentes servicios de pago y gratuitos que ofrece permiten que las empresas realicen diferentes tipos de actividades comerciales y promocionales que se pueden medir con datos estadísticos puntuales, los cuales se pueden monitorizar semanalmente. Facebook en la actualidad permite realizar mediciones muy completas de la actividad de las fan Page. Para el ingreso a estas estadísticas es necesario acceder a la página y en el menú en la parte izquierda, ingresar a estadísticas, allí se verá la información en forma detallada.
+        p.mb-0 Siendo la red social con el mayor número de usuarios a nivel mundial, Facebook es una plataforma por excelencia para el desarrollo de estrategias de #[em marketing] viral. Los diferentes servicios de pago y gratuitos que ofrece permiten que las empresas realicen diferentes tipos de actividades comerciales y promocionales que se pueden medir con datos estadísticos puntuales, los cuales se pueden monitorizar semanalmente. Facebook en la actualidad permite realizar mediciones muy completas de la actividad de las #[em fan Page]. Para el ingreso a estas estadísticas es necesario acceder a la página y en el menú en la parte izquierda, ingresar a estadísticas, allí se verá la información en forma detallada.
 
     p.mb-3(data-aos="fade-down") A continuación, se resaltan algunas de las estadísticas más importantes que ofrece Facebook:
     p.mb-3(data-aos="fade-down") #[b ✔	Resumen:] muestra datos generales de la actividad de la página, en un periodo de 7 o 28 días o de los últimos dos días.
@@ -536,11 +536,11 @@
             .col-12.col-lg-3
               img(src='@/assets/curso/temas/tema1/tema1-13.svg' alt='')
             .col-12.col-lg-7
-              p.mb-2(data-aos="fade-down") #[b o Por sección:] personas que iniciaron sesión y vieron las diferentes pestañas del perfil de la página.
-              p.mb-2(data-aos="fade-down") #[b o Por edad y sexo:] personas que iniciaron sesión que vieron el perfil de la página diferenciados por edad y sexo.
-              p.mb-2(data-aos="fade-down") #[b o Por país:] personas que iniciaron sesión que vieron el perfil de la página discriminados por país de origen.
-              p.mb-2(data-aos="fade-down") #[b o Por ciudad:] personas que iniciaron sesión y que vieron el perfil de la página mostrando la ciudad de origen.
-              p.mb-2(data-aos="fade-down") #[b o Por dispositivo:] personas que iniciaron sesión y que vieron el perfil de la página, permitiendo diferenciar el tipo de dispositivo desde el cual accedieron: computador o móvil.
+              p.mb-2(data-aos="fade-down") #[b Por sección:] personas que iniciaron sesión y vieron las diferentes pestañas del perfil de la página.
+              p.mb-2(data-aos="fade-down") #[b Por edad y sexo:] personas que iniciaron sesión que vieron el perfil de la página diferenciados por edad y sexo.
+              p.mb-2(data-aos="fade-down") #[b Por país:] personas que iniciaron sesión que vieron el perfil de la página discriminados por país de origen.
+              p.mb-2(data-aos="fade-down") #[b Por ciudad:] personas que iniciaron sesión y que vieron el perfil de la página mostrando la ciudad de origen.
+              p.mb-2(data-aos="fade-down") #[b Por dispositivo:] personas que iniciaron sesión y que vieron el perfil de la página, permitiendo diferenciar el tipo de dispositivo desde el cual accedieron: computador o móvil.
  
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down") 
       .col-lg-5.col-12
@@ -599,7 +599,7 @@
               | #[b Tipo de contenido:] fotos, videos, secuencias o publicaciones pagadas.
             li
               span.icon ✔ 
-              | #[b Métricas:] alcance, clics “cómo llegar”, clics en el sitio web, comentarios, correos electrónicos, impresiones, interacciones, llamadas, Me gusta, mensajes de texto, seguimientos, veces compartido, veces guardado, vista al perfil.
+              | #[b Métricas:] alcance, clics “cómo llegar”, clics en el sitio #[em web], comentarios, correos electrónicos, impresiones, interacciones, llamadas, Me gusta, mensajes de texto, seguimientos, veces compartido, veces guardado, vista al perfil.
             li
               span.icon ✔ 
               | #[b Tiempo:] desde los últimos 7 días hasta los últimos 2 años.
@@ -650,7 +650,7 @@
                       | Del perfil.
                     li.mb-1
                       span.icon o
-                      | De Hashtags.
+                      | De #[em Hashtags].
                     li.mb-1
                       span.icon o
                       | De otro origen.
@@ -727,7 +727,7 @@
           p.mb-0 Esta información es muy importante para conocer el arquetipo de los usuarios que siguen una cuenta. Es vital para la toma de decisiones del negocio en cuanto a promoción y comercialización. Para tener acceso a esta información es necesario acceder a “Estadísticas” y luego hacer clic en “Público”. Encontrando:
 
     p.mb-2(data-aos="fade-down") #[b • Sexo:] muestra el porcentaje de hombres y mujeres que hacen parte de los seguidores de la cuenta.
-    p.mb-2(data-aos="fade-down") #[b • Lugares principales ciudades o países:] muestra el origen de las cuentas que siguen el perfil.
+    p.mb-2(data-aos="fade-down") #[b • Lugares principales, ciudades o países:] muestra el origen de las cuentas que siguen el perfil.
     p.mb-2(data-aos="fade-down") #[b • Rangos de edad:] muestra los rangos de edad que más siguen la cuenta y los discrimina entre hombres y mujeres.
     p.mb-4(data-aos="fade-down") #[b • Crecimiento:] muestra la actividad de la cuenta en relación con los nuevos seguidores, las publicaciones y los que dejaron de seguir la cuenta.
 
