@@ -96,7 +96,7 @@
         img(src='@/assets/curso/temas/icono.svg', style="width: 25px", alt='')
         h3.mb-0.ms-3 Informes de audiencia en Google #[em Analytics]
 
-    p.mb-5(data-aos="fade-down") Las mediciones de audiencia son una información con mucho valor para la empresa. Estas permiten conocer el perfil en detalle de los visitantes de una página para la toma de decisiones. Algunas de estos indicadores son: 
+    p.mb-5(data-aos="fade-down") Las mediciones de audiencia son una información con mucho valor para la empresa. Estas permiten conocer el perfil en detalle de los visitantes de una página para la toma de decisiones. Algunos de estos indicadores son: 
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-lg-10.col-12
